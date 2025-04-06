@@ -7,6 +7,13 @@ This project demonstrates a data pipeline with the following technologies:
 - Cube.js for data modeling and analytics API
 - React with Recharts for data visualization
 
+## How to Clone the Repository
+
+ git clone https://github.com/avnishrai569/cube-react-dashboard.git
+ cd cube-react-dashboard
+
+
+
 ## Folder Structure
 
 ```
