@@ -9,8 +9,9 @@ This project demonstrates a data pipeline with the following technologies:
 
 ## How to Clone the Repository
 
- git clone https://github.com/avnishrai569/cube-react-dashboard.git
- cd cube-react-dashboard
+ - git clone https://github.com/avnishrai569/cube-react-dashboard.git
+
+ - cd cube-react-dashboard
 
 
 
